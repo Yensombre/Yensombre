@@ -1,1 +1,1 @@
-let go = 'go'
+ await functionName(now.getDate())
